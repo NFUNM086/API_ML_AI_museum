@@ -63,7 +63,7 @@
 
 ### 原型
 
-[原型链接](https://nfunm086.github.io/museum_prototype/)
+**[原型链接](https://nfunm086.github.io/museum_prototype/)**
 
 #### 原型1.交互及界面设计
 交互及界面设计：在PRD文件中是否有说明且原型是否有做到：交互及界面设计的某个核心交互环节使用了人工智能的加值
